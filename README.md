@@ -1,13 +1,13 @@
 # LinuxJob
 ![mon icon](http://25.io/mou/Mou_128.png)
 
-##MarkDown语言  
-  
+## MarkDown语言  　
+  
 *第一次使用MarkDown语言来编写文档*  
   
 Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。  
 
-####Markdown具有很多优点：
+#### Markdown具有很多优点：
 
 1. 写作中添加简单符号即完成排版，所见即所得。  
 2. 让你专注于文字而不是排版。
